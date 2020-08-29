@@ -4,3 +4,9 @@
 .dropdown-center{
     width: 100%;
 }
+.custom-select{
+    border-radius: 2px;
+}
+.apply-bc-color{
+    background-color: #FF0500;
+}
